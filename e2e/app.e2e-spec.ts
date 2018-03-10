@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('registartion App', () => {
+describe('ideaworks App', () => {
   let page: AppPage;
 
   beforeEach(() => {
