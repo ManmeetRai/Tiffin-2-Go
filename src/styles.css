@@ -1,17 +1,1 @@
 /* You can add global styles to this file, and also import other style files */
-.container{
-  margin-top: 50px;
-color: cadetblue;
-}
-.header{
-  color: darkgrey;
-  border-color: aqua;
-}
-.hcp-footer{
-  margin-bottom: 0;
-  background:#ededed;
-  flex:none;
-  width:100%;
-  padding:40px 0 44px;
-  text-align:center;
-}
