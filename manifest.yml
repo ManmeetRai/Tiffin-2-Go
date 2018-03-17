@@ -1,6 +1,6 @@
 applications:
 - name: ideaworks
   buildpack: https://github.com/cloudfoundry-community/staticfile-buildpack.git
-  memory: 256M
+  memory: 128M
   disk_quota: 512M
   domain: mybluemix.net
